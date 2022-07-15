@@ -13,6 +13,13 @@ I am Selam - A junior Data Engineer with a background in Computer Science. I am 
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B)&nbsp;
 ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C%2B%2B)&nbsp;
 
+Blog Post
+
+<!-- BLOG-POST-LIST:START -->
+- [Speech to Text processing using Kafka, Airflow and Spark](https://medium.com/@kabodshekinah/speech-to-text-processing-using-kafka-spark-and-airflow-d5b02217c55c)
+<!-- BLOG-POST-LIST:END -->
+
+
 ## GitHub Metrics
 
 ![GitHub metrics](https://metrics.lecoq.io/sel6)
