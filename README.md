@@ -4,6 +4,14 @@ I am Selam - A junior Data Engineer with a background in Computer Science. I am 
 
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/selam-ayehubirhan-897a6321a), [Gmail](kabodshekinah@gmail.com), [Instagram](https://www.instagram.com/invites/contact/?i=1lhde2ovubw9&utm_content=471xav7)
 
+## Tech Stack
+
+#### Technologies
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B)&nbsp;
+![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C%2B%2B)&nbsp;
+![Bash](https://img.shields.io/badge/-Bash-05122A?style=flat&logo=C%2B%2B)&nbsp;
+
 ## GitHub Metrics
 
 ![GitHub metrics](https://metrics.lecoq.io/sel6)
