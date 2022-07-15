@@ -2,7 +2,7 @@
 
 I am Selam - A junior Data Engineer with a background in Computer Science. I am well versed in web-scraping, natural language processing, exploratory data analysis, data filtering, visualisation, transformation and data warehouse managment. 
 
-I mantain a blog on [Medium](https://medium.com/@kabodshekinah) and you can follow me on [Instagram](https://www.instagram.com/invites/contact/?i=1lhde2ovubw9&utm_content=471xav7). Checkout out my [Linkedin](https://www.linkedin.com/in/selam-ayehubirhan-897a6321a) and [Email](kabodshekinah@gmail.com) me.
+I mantain a blog on [Medium](https://medium.com/@kabodshekinah) and you can follow me on [Instagram](https://www.instagram.com/invites/contact/?i=1lhde2ovubw9&utm_content=471xav7). You can checkout out my [Linkedin](https://www.linkedin.com/in/selam-ayehubirhan-897a6321a) and [Email](kabodshekinah@gmail.com) me.
 
 ## Tech Stack
 
