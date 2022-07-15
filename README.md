@@ -7,5 +7,3 @@ I am Selam - A junior Data Engineer with a background in Computer Science. I am 
 ## GitHub Metrics
 
 ![GitHub metrics](https://metrics.lecoq.io/sel6)
-
-[![Selam's github activity graph](https://activity-graph.herokuapp.com/graph?username=sel6&theme=dracula)](https://github.com/sel6/github-readme-activity-graph)
