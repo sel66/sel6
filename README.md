@@ -31,7 +31,6 @@ I am Selam - A junior Data Engineer with a background in Computer Science. I am 
 
 
 ## GitHub Metrics
----
 
 ![GitHub metrics](https://metrics.lecoq.io/sel6)
 
