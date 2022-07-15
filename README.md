@@ -33,7 +33,8 @@ I mantain a blog on [Medium](https://medium.com/@kabodshekinah) and you can foll
 
 ![GitHub metrics](https://metrics.lecoq.io/sel6)
 
-## GitHub Analytics
+## GitHub Stats
+
 <p align="center">
   <a href="https://github.com/sel6">
     <img width="400px" src="https://github-readme-stats-eight-theta.vercel.app/api?username=sel6&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide_border=true&bg_color=060B0D"/>
