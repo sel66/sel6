@@ -16,9 +16,9 @@ I am Selam - A junior Data Engineer with a background in Computer Science. I am 
 
 
 #### Tools
-![MLflow](https://img.shields.io/badge/-MLflow-05122A?style=flat&logo=MLflow)&nbsp;
 ![Airflow](https://img.shields.io/badge/-Airflow-05122A?style=flat&logo=Airflow)&nbsp;
 ![DVC](https://img.shields.io/badge/-DVC-05122A?style=flat&logo=DVC)&nbsp;
+![Kafka](https://img.shields.io/badge/-Kafka-05122A?style=flat&logo=Kafka)&nbsp;
 ![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=Docker)&nbsp;
 ![github actions](https://img.shields.io/badge/-GitHub%20Actions-05122A?style=flat&logo=GitHub%20Actions)&nbsp;
 ![Travis%20CI](https://img.shields.io/badge/-Travis%20CI-05122A?style=flat&logo=Travis%20CI)&nbsp;
