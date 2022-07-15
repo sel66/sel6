@@ -4,17 +4,6 @@ I am Selam - A junior Data Engineer with a background in Computer Science. I am 
 
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/selam-ayehubirhan-897a6321a), [Gmail](kabodshekinah@gmail.com), [Instagram](https://www.instagram.com/invites/contact/?i=1lhde2ovubw9&utm_content=471xav7)
 
-
- 
- ## My Stats
-
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=sel6&count_private=true&theme=buefy&showicons=true)](https://github-readme-stats.vercel.app/api/?username=sel6&count_private=true&theme=buefy&showicons=true)
-
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=sel6&langs_count=5&theme=buefy)](https://github-readme-stats.vercel.app/api/top-langs/?username=sel6&langs_count=5&theme=buefy)
-
-<br />
-<br />
-
 ## GitHub Metrics
 
 ![GitHub metrics](https://metrics.lecoq.io/sel6)
