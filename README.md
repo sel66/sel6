@@ -2,7 +2,7 @@
 
 I am Selam - A junior Data Engineer with a background in Computer Science. I am well versed in web-scraping, natural language processing, exploratory data analysis, data filtering, visualisation, transformation and data warehouse managment.
 
-- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/selam-ayehubirhan-897a6321a), [Gmail](kabodshekinah@gmail.com), [Instagram](https://www.instagram.com/invites/contact/?i=1lhde2ovubw9&utm_content=471xav7)
+- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/selam-ayehubirhan-897a6321a), [Gmail](kabodshekinah@gmail.com), [Instagram](https://www.instagram.com/invites/contact/?i=1lhde2ovubw9&utm_content=471xav7), [Medium](https://medium.com/@kabodshekinah)
 
 ## Tech Stack
 
@@ -28,13 +28,6 @@ I am Selam - A junior Data Engineer with a background in Computer Science. I am 
 ![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=Flask)&nbsp;
 ![Streamlit](https://img.shields.io/badge/-Streamlit-05122A?style=flat&logo=Streamlit)&nbsp;
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=React)&nbsp;
-
-### Blog Post
-
-<!-- BLOG-POST-LIST:START -->
-- [Speech to Text processing using Kafka, Airflow and Spark](https://medium.com/@kabodshekinah/speech-to-text-processing-using-kafka-spark-and-airflow-d5b02217c55c)
-<!-- BLOG-POST-LIST:END -->
-
 
 ## GitHub Metrics
 
