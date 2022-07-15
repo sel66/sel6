@@ -8,7 +8,7 @@ I am Selam - A junior Data Engineer with a background in Computer Science. I am 
 
 #### Technologies
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-![SQL](https://img.shields.io/badge/-SQL++-05122A?style=flat&logo=C%2B%2B)&nbsp;
+![SQL](https://img.shields.io/badge/-SQL-05122A?style=flat&logo=C%2B%2B)&nbsp;
 ![Bash](https://img.shields.io/badge/-Bash-05122A?style=flat&logo=C%2B%2B)&nbsp;
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B)&nbsp;
 ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C%2B%2B)&nbsp;
