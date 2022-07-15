@@ -1,11 +1,10 @@
 ## Hello 👋
----
+
 I am Selam - A junior Data Engineer with a background in Computer Science. I am well versed in web-scraping, natural language processing, exploratory data analysis, data filtering, visualisation, transformation and data warehouse managment.
 
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/selam-ayehubirhan-897a6321a), [Gmail](kabodshekinah@gmail.com), [Instagram](https://www.instagram.com/invites/contact/?i=1lhde2ovubw9&utm_content=471xav7)
 
 ## Tech Stack
----
 
 #### Technologies
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
@@ -24,8 +23,7 @@ I am Selam - A junior Data Engineer with a background in Computer Science. I am 
 ![github actions](https://img.shields.io/badge/-GitHub%20Actions-05122A?style=flat&logo=GitHub%20Actions)&nbsp;
 ![Travis%20CI](https://img.shields.io/badge/-Travis%20CI-05122A?style=flat&logo=Travis%20CI)&nbsp;
 
-Blog Post
----
+### Blog Post
 
 <!-- BLOG-POST-LIST:START -->
 - [Speech to Text processing using Kafka, Airflow and Spark](https://medium.com/@kabodshekinah/speech-to-text-processing-using-kafka-spark-and-airflow-d5b02217c55c)
