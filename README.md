@@ -39,3 +39,8 @@ I mantain a blog on [Medium](https://medium.com/@kabodshekinah) and you can foll
     <img width="400px" src="https://github-readme-stats-eight-theta.vercel.app/api?username=sel6&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide_border=true&bg_color=060B0D"/>
     <img width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=sel6&theme=black-ice&hide_border=true&stroke=0000&background=060B0D">
   </a>
+## Where to find me
+<p align="left">
+  <a href="https://www.linkedin.com/in/selam-ayehubirhan-897a6321a/"><img src="https://img.shields.io/badge/Selam--Ayehubirhan-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white"/></a>
+  <a href="mailto: kabodshekinah@gmail.com"><img src="https://img.shields.io/badge/Selam--Ayehubirhan-Email-red?style=flat&logo=Gmail&logoColor=white"/></a>
+</p>
