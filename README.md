@@ -12,8 +12,6 @@ I am Selam - A junior Data Engineer with a background in Computer Science. I am 
 
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=sel6&langs_count=5&theme=buefy)](https://github-readme-stats.vercel.app/api/top-langs/?username=sel6&langs_count=5&theme=buefy)
 
-![My GitHub Streaks](https://github-readme-streak-stats.herokuapp.com/?user=sel6&)
-
 <br />
 <br />
 
@@ -21,6 +19,6 @@ I am Selam - A junior Data Engineer with a background in Computer Science. I am 
 
 ![GitHub metrics](https://metrics.lecoq.io/sel6)
 
-[![Bini's github activity graph](https://activity-graph.herokuapp.com/graph?username=sel6&theme=dracula)](https://github.com/sel6/github-readme-activity-graph)
+[![Selam's github activity graph](https://activity-graph.herokuapp.com/graph?username=sel6&theme=dracula)](https://github.com/sel6/github-readme-activity-graph)
 
 - [My Github skyline](https://skyline.github.com/sel6/2021)
