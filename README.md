@@ -29,10 +29,6 @@ I mantain a blog on [Medium](https://medium.com/@kabodshekinah) and you can foll
 ![Streamlit](https://img.shields.io/badge/-Streamlit-05122A?style=flat&logo=Streamlit)&nbsp;
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=React)&nbsp;
 
-## GitHub Metrics
-
-![GitHub metrics](https://metrics.lecoq.io/sel6)
-
 ## GitHub Stats
 
 <p align="center">
