@@ -1,6 +1,6 @@
 ## Hello 👋
 
-I am Selam - A junior Data Engineer with a background in Computer Science. I am well versed in web-scraping, natural language processing, exploratory data analysis, data filtering, visualisation, transformation and data warehouse managment. 
+I am Selam - A junior Data Engineer with a background in Computer Science. I am well versed in natural language processing, exploratory data analysis, data filtering, visualisation, transformation and data warehouse managment. 
 
 I mantain a blog on [Medium](https://medium.com/@kabodshekinah) and you can follow me on [Instagram](https://www.instagram.com/invites/contact/?i=1lhde2ovubw9&utm_content=471xav7).
 
