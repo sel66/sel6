@@ -1,6 +1,6 @@
 ## Hello 👋
 
-I am Selam - A junior Data Engineer with a background in Computer Science. I am well versed in natural language processing, exploratory data analysis, data filtering, visualisation, transformation and data warehouse managment. 
+An enthusiast machine learning engineer, skilled with data preparation and exploration, model training and experimentation; equipped with problem solving skills gained from experience; familiar with object oriented language like python and C++. 
 
 I mantain a blog on [Medium](https://medium.com/@kabodshekinah) and you can follow me on [Instagram](https://www.instagram.com/invites/contact/?i=1lhde2ovubw9&utm_content=471xav7).
 
